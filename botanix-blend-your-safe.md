@@ -4,7 +4,7 @@ slug: "botanix-blend-your-safe"
 date: "2026-02-20"
 description: "Why the Botanix and Blend integration changes the risk model from pooled DeFi vaults to segregated on-chain custody."
 author: "BTCBoard Research"
-authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
+authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Botanix%20Blend_%20Your%20Safe.png"
 coverAlt: "Botanix × Blend Your Safe"
 tags: ["bitcoin", "botanix", "blend", "defi", "custody", "infrastructure"]
