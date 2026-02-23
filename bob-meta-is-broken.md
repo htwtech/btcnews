@@ -4,7 +4,7 @@ slug: "why-current-btcfi-meta-is-broken"
 date: "2026-02-19"
 description: "Why the current BTCFi meta is broken and how BOB's Native Vaults aim to solve the dead weight of idle Bitcoin."
 author: "BTCBoard Research"
-authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
+authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://pbs.twimg.com/media/HBiRywxXcAAZXMh.jpg"
 coverAlt: "Why the Current BTCFi Meta is Broken"
 tags: ["bitcoin", "btcfi", "bob", "defi", "bitvm"]
