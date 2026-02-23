@@ -4,7 +4,7 @@ slug: "bitcoin-privacy-guide-utxo-management-wallet-hygiene"
 date: "2026-02-18"
 description: "Bitcoin privacy basics: UTXO management, wallet hygiene, coin control, and network-level metadata protection."
 author: "BTCBoard Research"
-authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
+authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Bitcoin%20Privacy%20Best%20Practices.png"
 coverAlt: "Bitcoin Privacy Guide"
 tags: ["bitcoin", "privacy", "utxo", "wallet", "coin-control", "rpc", "indexer"]
