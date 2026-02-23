@@ -4,7 +4,7 @@ slug: "lightning-labs-ai-agent-toolkit-l402"
 date: "2026-02-22"
 description: "AI agents are already trading, rebalancing portfolios, automating DeFi workflows, and the payment infrastructure around them has been building since 2025. Labs just added their piece to this stack, and it's worth understanding where it fits."
 author: "BTCBoard Research"
-authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
+authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Lightning%20Meets%20%20AI%20Agents%203.png"
 coverAlt: "Lightning Meets AI Agents"
 tags: ["bitcoin", "lightning", "ai", "agents", "payments", "infrastructure"]
