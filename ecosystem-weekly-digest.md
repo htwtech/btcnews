@@ -4,7 +4,7 @@ slug: "btc-ecosystem-weekly-digest-feb-19"
 date: "2026-02-19"
 description: "Prediction markets 2.0, 'Vibe coding' on Bitcoin, and cross-chain yield without the bridge pain. Dive into the latest BTC ecosystem news."
 author: "BTCBoard Research"
-authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
+authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://pbs.twimg.com/media/HBTh841aQAA65KI.jpg"
 coverAlt: "BTC Ecosystem Weekly Digest"
 tags: ["bitcoin", "digest", "ai", "defi", "cross-chain"]
