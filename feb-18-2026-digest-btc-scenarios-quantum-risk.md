@@ -4,7 +4,7 @@ slug: "feb-18-2026-digest-btc-scenarios-quantum-risk"
 date: "2026-02-18"
 description: "Dollar positioning extremes, quantum exposure debate, and two recovery scenarios for Bitcoin."
 author: "BTCBoard Research"
-authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
+authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Feb%2018,%202026%20_%20Digest.png"
 coverAlt: "Feb 18 2026 Digest"
 tags: ["bitcoin", "btc", "macro", "quantum", "cryptoquant", "market-digest"]
