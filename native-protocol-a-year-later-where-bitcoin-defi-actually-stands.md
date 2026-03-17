@@ -10,8 +10,6 @@ coverAlt: "Native Protocol BTCFi check cover"
 tags: ["bitcoin", "btc", "l2"]
 ---
 
-![Native Protocol BTCFi check cover](https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/native_main.png)
-
 Almost a year ago [we covered Native Protocol](https://htwtech.medium.com/native-improving-bitcoins-programmability-and-interoperability-993c9d724052) — back then they had big plans for Bitcoin DeFi but zero product. Mainnet drops next month according to their roadmap. Time to check what actually shipped versus the initial pitch.
 
 ## The Technical Foundation: Beyond Another Wrapped Bitcoin
