@@ -1,7 +1,7 @@
 ---
 title: "Five BTC Opportunities Worth Looking at This Week"
-slug: "five-btc-opportunities-weekly-mar-18"
-date: "2026-03-18"
+slug: "five-btc-opportunities-weekly-feb-7"
+date: "2026-02-07"
 description: "Different setups, different risk profiles. Five ways to put your BTC to work without fully leaving the Bitcoin ecosystem."
 author: "Bitcoin Board"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
@@ -11,6 +11,8 @@ tags: ["bitcoin", "btcfi", "yield", "staking", "lightning"]
 ---
 
 # Five BTC Opportunities Worth Looking at This Week
+
+*February 7, 2026*
 
 Here are five BTC opportunities worth looking at this week.
 
