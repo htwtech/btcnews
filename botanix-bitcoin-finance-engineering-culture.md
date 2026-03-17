@@ -1,7 +1,7 @@
 ---
 title: "Botanix: What Bitcoin Finance Actually Means"
 slug: "botanix-bitcoin-finance-engineering-culture"
-date: "2026-03-18"
+date: "2026-02-05"
 description: "Botanix dropped positioning around Bitcoin Finance, and it's less about features than drawing a line around what doing finance with Bitcoin means."
 author: "Bitcoin Board"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
