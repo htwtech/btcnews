@@ -10,6 +10,8 @@ coverAlt: "Omnity Network"
 tags: ["bitcoin", "omnity", "ordinals", "runes", "defi", "interoperability"]
 ---
 
+# Omnity Network: Bridging Bitcoin Ordinals and Runes into DeFi
+
 [Omnity Network](https://www.omnity.network) is a cross-chain protocol built on DFINITY Internet Computer (ICP) that functions as a Bitcoin asset hub for decentralized finance. The platform provides two core services: Omnity Hub for interoperability and Runes Exchange Environment (REE) for on-chain execution.
 
 ## Architecture and Core Components
@@ -33,12 +35,14 @@ Omnity Hub serves as the interoperability backbone connecting Bitcoin and its as
 
 Through this hub, users can transfer Bitcoin or Bitcoin-derived tokens to other ecosystems and back in a trustless way. In April 2024, Omnity executed the first ever trustless Rune token transfer between Bitcoin and ICP, demonstrating that a Bitcoin-native token could be moved to a different chain without custodial bridges. The architecture below shows how Omnity Hub facilitates a 1:1 token migration between Ethereum and ICP, with assets redistributed across staking rewards, auctions, and the Hub itself.
 
+![Omnity Hub Architecture Migration](https://miro.medium.com/v2/resize:fit:828/format:webp/1*nUyiMmknKqMPNrnTxDEaJA.png)
 *Omnity Hub enables trustless migration between Ethereum and ICP. Here, $OCT tokens are converted 1:1 into $OT, redistributed across staking, auctions, and the Hub itself (source: [Omnity Blog](https://medium.com/omnity/the-evolution-from-octopus-to-omnity-fbe1860e797f))*
 
 Today, the Hub supports major networks including Bitcoin, Ethereum, Solana, TON, ICP, and Bitcoin L2s like Bitfinity and Core. Omnity lets users move Runes across chains directly — all transfers are verified on-chain, with no need for relayers or custodians.
 
 ## Technical Implementation of Cross-Chain Operations
 
+![Omnity Hub Runes Interface](https://miro.medium.com/v2/resize:fit:828/format:webp/1*YHwGH8DGWrHBnLjPaVa3tw.png)
 *(Source: [Omnity Hub Runes](https://hub.omnity.network/runes))*
 
 Omnity Hub employs light-client verification and ICP’s chain integration to trustlessly observe one chain and act on another. When a user moves assets, the Hub uses on-chain “tickets” representing the transfer: a Bitcoin deposit or Rune mint on one side triggers the release or creation of an equivalent asset on the target chain.
@@ -57,6 +61,7 @@ The Hub is designed to be asset-agnostic, and support for NFTs like Ordinals was
 
 ## REE: Bitcoin-Native Smart Contracts via Runes Exchange Environment
 
+![REE Architecture](https://miro.medium.com/v2/resize:fit:828/format:webp/1*30lygSyU6K4HkoOsW9ZqcQ.png)
 *(source: REE Whitepaper)*
 
 While the Hub handles interoperability, REE brings complex transaction logic to Bitcoin without relying on changes to the base layer. Bitcoin’s base layer normally cannot execute multi-step DeFi logic. REE coordinates logic off-chain, while signing and settling transactions on Bitcoin through native UTXOs and PSBTs. It relies on a process called Decentralized PSBT Signing (DPS), where Bitcoin transactions are co-signed across participants before being finalized.
@@ -65,6 +70,7 @@ In REE, financial protocols (like DEXs or lending platforms) are implemented as 
 
 ## Transaction Coordination Process
 
+![REE Transaction Flow](https://miro.medium.com/v2/resize:fit:828/format:webp/1*aG3_N3QUPGh8AIsYUGNBpg.png)
 *The full flow of REE execution: from user PSBT signing to orchestrator coordination and final Bitcoin broadcast. Multiple exchanges can sign within a single atomic transaction (source: REE Whitepaper)*
 
 When a user wants to perform a DeFi action (say swap BTC for a Rune token), the user’s wallet and the REE canister protocols co-create a Bitcoin transaction that executes the swap directly on L1.
@@ -75,6 +81,7 @@ The process begins with the user’s front-end (or SDK) constructing a PSBT that
 
 The user signs the PSBT first with their Bitcoin key, effectively approving the spend of their UTXO under the agreed terms. This signed PSBT is then sent to the REE Orchestrator, a coordinating canister that oversees execution.
 
+![REE Orchestrator Interface](https://miro.medium.com/v2/resize:fit:828/format:webp/1*_YOs2w5u9WgEFN_9NXrIFw.png)
 *(Source: [Omnity REE](https://www.omnity.network/ree))*
 
 The orchestrator validates everything before proceeding — it checks that the inputs are valid and unspent and that the transaction format is correct. For Rune tokens, this involves consulting an on-chain Runes indexer (also built by Omnity) to verify any OP_RETURN instructions and ensure the user actually has the Rune amounts claimed.
@@ -93,6 +100,7 @@ No assets move until both parties sign and the transaction is mined — custody 
 
 For developers, REE opens up programmable logic on Bitcoin without introducing new opcodes or protocol changes. Everything runs via smart contracts on ICP that coordinate native Bitcoin transactions. The logic resides in Rust-based canisters on ICP, but these canisters are tightly coupled to Bitcoin through ICP’s Bitcoin integration (ICP runs special subnets that track Bitcoin blocks and handle signing).
 
+![ICP Canisters and REE](https://miro.medium.com/v2/resize:fit:828/format:webp/1*qmVoharfs6dKnJbpV1ecHA.png)
 *(source: REE Whitepaper)*
 
 The REE whitepaper describes this as the “Exchange-Pool” model, aligning with Bitcoin’s UTXO nature: an exchange (like a DEX or lending platform) manages one or more pools (Bitcoin addresses holding coins) and participates in PSBTs by contributing inputs/outputs from those pools.
