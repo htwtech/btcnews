@@ -16,11 +16,9 @@ Between 2021 and 2024 the crypto world adopted modular architecture: instead of 
 
 Spicenet enters exactly at that inflection point. Its stated mission is to unlock programmable cross-chain assets by turning liquidity, accounts and even whole chains into interoperable blockchain components that talk to each other natively rather than through bridge-dependent solutions. Technically it is not another stand-alone chain. Instead, Spicenet delivers a Spatial Overlay Network (SON) — a logic layer that sits above L1s/L2s, orchestrates state across them, and gives developers a single programmable surface for cross-chain value flows. The architecture centers on three core components:
 
-MoveVM everywhere. A formally-verifiable execution engine borrowed from the Move ecosystem (Aptos, Sui) runs contracts, no matter which data-availability service a rollup chooses.
-
-Liquidity as first-class module. Native vaults (Network-Owned Liquidity) and an automated market maker network move assets where they are needed, eliminating wrapped tokens.
-
-Wallet & gas abstraction. Users sign with any key-pair (EVM, SVM, Move, soon Cosmos) and pay fees implicitly; the chain handles FX and routing under the hood.
+* **MoveVM everywhere.** A formally-verifiable execution engine borrowed from the Move ecosystem (Aptos, Sui) runs contracts, no matter which data-availability service a rollup chooses.
+* **Liquidity as first-class module.** Native vaults (Network-Owned Liquidity) and an automated market maker network move assets where they are needed, eliminating wrapped tokens.
+* **Wallet & gas abstraction.** Users sign with any key-pair (EVM, SVM, Move, soon Cosmos) and pay fees implicitly; the chain handles FX and routing under the hood.
 
 If it succeeds, a retail user could open Phantom or MetaMask, deposit once, and trade on any Spicenet-powered dApp — no bridges, no juggling of gas tokens, no fragmentary UIs. That promise resonates with both DeFi veterans and newcomers who never cared which chain their favourite game sits on.
 
@@ -37,70 +35,57 @@ That trajectory frames Spicenet less as a “new chain” and more as middleware
 ## Under the hood: architecture in plain English
 
 **Framework layer**
+
+![Spicenet Framework Layer Diagram](https://miro.medium.com/v2/resize:fit:828/format:webp/1*VQQFZ5hE2MOtzKH7aZHTXA.png)
+
 The upshot is that a rollup can adopt Spicenet’s execution layer while keeping its favourite DA backend — Celestia today, EigenDA tomorrow, or even dank-sharded Ethereum when EIP-4844 fees fall. Contracts remain intact. Seamless transition for users.
 
 **User-facing modules**
+
+![Spicenet User-Facing Modules Diagram](https://miro.medium.com/v2/resize:fit:828/format:webp/1*Sa4ItMC1OsXJD-i1WQdtPA.png)
+
 Capsule deserves a special shout-out. By decoupling keys from custody, it turns any existing wallet standard — EVM, SVM, Move, soon Cosmos — into a universal remote for Spicenet. Gas fees are paid underneath by paymasters that receive stablecoin reimbursement, so most users never see a gas prompt at all.
 
 ## Product modules: what you can build or use today
 
-**User Abstraction Suite.** Wallet, asset and gas abstraction baked into the protocol. dApp devs call one SDK method; Spicenet handles key management, fee conversion and cross-chain settlement.
+![Spicenet Product Modules Diagram](https://miro.medium.com/v2/resize:fit:828/format:webp/1*kecJl0WdQ9NiGFzUjgSVnw.png)
 
-**hotUSD vault.** The first Bitcoin-backed synthetic dollar: deposit BTC staking/restaking tokens (Lombard LBTC, pSTAKE yBTC, etc.); the vault shorts BTC via the solver network and mints a dollar-pegged token bearing the combined staking yield. Designed to hedge BTC volatility while generating yield.
+Developers can use the User Abstraction Suite, calling a single SDK method while Spicenet handles key management, fee conversion, and cross-chain settlement. For users, the hotUSD vault acts as the first Bitcoin-backed synthetic dollar. You deposit BTC staking or restaking tokens, and the vault shorts BTC via the solver network to mint a dollar-pegged token bearing the combined staking yield. 
 
-**Network-Owned Liquidity (NOL) vaults.** Think of them as protocol-run LP positions that constantly rebalance where liquidity is most useful — DEX pools, futures collateral, strategy vaults. Traders get depth; $SPICE stakers earn a share of fees.
-
-**oPEP incentives.** Instead of blunt liquidity mining, Spicenet issues “omni-Composable Engagement Points”. Points accrue for useful behaviour (early vault deposits, solver uptime, Ambassador nominations), later convertible into $SPICE or vault boosts. Structured to reward long-term participation.
+The protocol also runs Network-Owned Liquidity (NOL) vaults that constantly rebalance where liquidity is most useful, giving traders depth and $SPICE stakers a share of fees. Instead of blunt liquidity mining, Spicenet issues omni-Composable Engagement Points (oPEP) for useful behaviour, convertible into $SPICE or vault boosts.
 
 ## $SPICE tokenomics at a glance
 
-Distribution of the fixed 100 M $SPICE supply. Validator rewards (25 %) taper via a hyperbolic halving curve; the rest funds builders, liquidity, community and future raises.
+![Spicenet Tokenomics Diagram](https://miro.medium.com/v2/resize:fit:828/format:webp/1*HxNdZAT4eetzQ020q1YDhA.png)
 
-Key utilities: validator staking, gas-paymaster collateral, bandwidth bribes (tx priority) and DAO governance. Stake $SPICE to trade cheaper, earn solver fees or vote on the next NOL vault.
+Distribution of the fixed 100 M $SPICE supply focuses on long-term sustainability. Validator rewards taper via a hyperbolic halving curve, while the rest funds builders, liquidity, community and future raises. Key utilities include validator staking, gas-paymaster collateral, bandwidth bribes for transaction priority, and DAO governance. You stake $SPICE to trade cheaper, earn solver fees or vote on the next NOL vault.
 
 ## Go-to-market & ecosystem flywheel
 
-**Ambassador Program 2.0.** Associates → Partners → Ambassadors. Weekly task scores averaged over a month; SpiceWill initiative rewards organic engagement rather than forced retweets. Top tier participants receives liquid $SPICE at TGE.
-
-**DAO grants.** Treasury tokens fund omni-composable apps — think cross-chain under-collateralised lending or on-chain RWAs priced in hotUSD.
-
-**Partner integrations.** 35+ projects in pipeline: Plume (modular DeFi hub), Arch (AI agent rollup), Karak (BTC restaking), Maple (credit markets) and more. Early adopters get solver rebates and front-row listing on PepperDEX.
+The Ambassador Program runs on weekly task scores, rewarding organic engagement rather than forced retweets, with top participants receiving liquid $SPICE at TGE. DAO treasury tokens fund omni-composable apps like cross-chain under-collateralised lending or on-chain RWAs priced in hotUSD. Spicenet also has over 35 partner integrations in the pipeline, including Plume, Arch, Karak, and Maple. Early adopters get solver rebates and front-row listing on PepperDEX.
 
 ## Security & reliability
 
-**Consensus.** Tendermint BFT (via CometBFT) with rotating validator sets; slashing for downtime or invalid state roots.
+![Spicenet Security and Reliability Diagram](https://miro.medium.com/v2/resize:fit:828/format:webp/1*OwHMAlbxYijLApCACFOTvg.png)
 
-**Anti-reorg.** Block finality in a few seconds; fast-finality checkpoints signed by >⅔ stake and mirrored to external L1s for auditability.
-
-**Hot upgrades.** MoveVM modules are upgradable through on-chain governance without halting the chain, avoiding the “fork every six months” syndrome.
-
-**Solver sandbox.** Executors run in restricted Move modules audited for MEV behaviour; repeat offenders lose stake and role.
+Consensus runs on Tendermint BFT with rotating validator sets, slashing for downtime or invalid state roots. Block finality hits in a few seconds, with fast-finality checkpoints signed by a majority stake and mirrored to external L1s for auditability. MoveVM modules are upgradable through on-chain governance without halting the chain, avoiding constant hard forks. Executors run in restricted Move modules audited for MEV behaviour, forming a solver sandbox where repeat offenders lose their stake and role.
 
 ## External ecosystem ties
 
-Spicenet is not trying to out-compete established L1s; it integrates with them. Out-of-the-box light-clients connect to Celestia, Near DA, several EVM L2s, upcoming Bitcoin L2s (via Taproot assets) and any IBC-capable zone. Planned deep partnerships include Babylon (BTC staking → security leasing) and EigenLayer (ETH restaking → shared sequencing security). In practice that means a Spicenet app can borrow liquidity from Solana, hedge on an EigenLayer rollup and settle interest payments on Ethereum — all via one UMA.
+Spicenet is not trying to out-compete established L1s; it integrates with them. Out-of-the-box light-clients connect to Celestia, Near DA, several EVM L2s, upcoming Bitcoin L2s via Taproot assets, and any IBC-capable zone. Planned deep partnerships include Babylon for security leasing and EigenLayer for shared sequencing security. In practice, a Spicenet app can borrow liquidity from Solana, hedge on an EigenLayer rollup and settle interest payments on Ethereum — all via one Unified Margin Account.
 
 ## Who backs the vision
 
-**Hack VC** — lead investor, seed round. Brings deep DeFi know-how plus validator infrastructure that Spicenet can lean on from day one.
+Hack VC led the seed round, bringing deep DeFi knowledge and validator infrastructure. Magnus Capital co-led, advising on go-to-market and growth loops. Strategic participants like DoraHacks, WAGMI Ventures, Echo VC, TPC Ventures, and The Rollup Ventures plug Spicenet into hackathon distribution, Web3 marketing, enterprise intros, validator networks, and rollup-as-a-service channels. Angels like Zaki Manian, Tekin Salimi, John Adler, and others mentor the core team on cross-chain messaging and economic security.
 
-**Magnus Capital** — co-lead, seed. Advises on go-to-market and growth loops; previous wins in modular-stack projects make them a natural sounding board.
+Taken together, the backers span both Cosmos and Ethereum camps, signalling that Spicenet positions itself as a neutral middleware rather than a tribal chain-maxi play.
 
-**DoraHacks, WAGMI Ventures, Echo VC, TPC Ventures & The Rollup Ventures** — strategic seed participants. Each plugs Spicenet into a different slice of the infra ecosystem: hackathon distribution (DoraHacks), Web3 marketing (WAGMI), enterprise intros (Echo), validator networks (TPC) and rollup-as-a-service channels (The Rollup Ventures).
+## Where this is going
 
-**Notable angels**
-Zaki Manian, Tekin Salimi, John Adler, Vish.eth, Smokey, RandomTask — veterans across Cosmos IBC, EigenLayer, rollup architecture and Berachain. They mentor the core team on cross-chain messaging, economic security and validator ops.
+Phase II in 2026 will open the Solver Marketplace to permissionless actors and extend hotUSD into a family of strategy vaults backed by ETH, stSOL, or RWAs. Phase III hands control of vault parameters, paymaster subsidies and execution upgrades to the DAO, while a rollup factory lets any team launch a Spicenet-ready chain with one CLI command.
 
-Taken together, the backers span both Cosmos and Ethereum camps, signalling that Spicenet positions itself as a neutral middleware rather than a tribal “chain-maxi” play.
+Spicenet’s success metric is not TPS on a single ledger; it is the volume of cross-chain transactions executed without bridges. If by 2027 a mobile gamer swaps Solana meme-coins for an RWA-backed yield note in one click — and never learns the word "bridge" — Spicenet will have done its job.
 
-## Where this is going (and how to follow)
+With Layer-2 scalability largely solved, cross-chain interoperability has become the primary technical challenge. Spicenet’s approach centers on making asset transfers between chains as seamless as data routing on the internet — automated, transparent, and secured through economic mechanisms rather than trusted intermediaries. 
 
-Phase II (2026) will open the Solver Marketplace to permissionless actors and extend hotUSD into a family of strategy vaults (ETH-backed, stSOL-backed, RWA-backed). Phase III (2026+) hands control of vault parameters, paymaster subsidies and execution upgrades to the DAO, while a rollup factory lets any team launch a Spicenet-ready chain with one CLI command.
-
-Spicenet’s success metric is not TPS on a single ledger; it is the volume of cross-chain transactions executed without bridges. If by 2027 a mobile gamer swaps Solana meme-coins for an RW-backed yield note in one click — and never learns the word “bridge” — Spicenet will have done its job.
-
-With Layer-2 scalability largely solved, cross-chain interoperability has become the primary technical challenge. Spicenet’s approach centers on making asset transfers between chains as seamless as data routing on the internet — automated, transparent, and secured through economic mechanisms rather than trusted intermediaries.
-
-The protocol targets developers building across multiple chains, DeFi applications requiring deep liquidity, and RWA projects needing flexible infrastructure. If successful, Spicenet could reduce the integration overhead that currently fragments the multi-chain ecosystem, allowing teams to focus on application logic rather than cross-chain plumbing.
-
-Stay spicy.
+The protocol targets developers building across multiple chains, DeFi applications requiring deep liquidity, and RWA projects needing flexible infrastructure. If successful, Spicenet could reduce the integration overhead that currently fragments the multi-chain ecosystem, allowing teams to focus on application logic rather than cross-chain plumbing. Stay spicy.
