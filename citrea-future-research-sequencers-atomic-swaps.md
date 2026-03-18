@@ -10,6 +10,8 @@ coverAlt: "Citrea Future Research"
 tags: ["bitcoin", "citrea", "l2", "infrastructure", "rollups"]
 ---
 
+# Citrea’s Future Research: Decentralized Sequencers, Atomic Swaps, and Volition
+
 We were digging through Citrea’s documentation the other day and came across a section labeled Future Research. Usually, these kinds of sections are full of vague ideas that may or may not ever make it past the brainstorming phase. But here, a few things stood out — real, tangible improvements that could have an actual impact on how Bitcoin L2s evolve.
 
 Instead of just skimming over all the ideas they’re exploring, We wanted to break down three specific directions that seemed particularly interesting: Decentralized Sequencer Networks, Trustless Atomic Swaps, and the Volition Model. Not just what they are, but why they matter, what challenges they introduce, and where similar approaches are already being used in other ecosystems.
@@ -36,6 +38,7 @@ Most Bitcoin L2 solutions today rely on bridges to move assets between Bitcoin a
 
 Citrea is trying something different. Instead of wrapping BTC or relying on a centralized custodian, they’re integrating trustless atomic swaps at the protocol level. The idea is simple: let users swap BTC for Citrea’s native cBTC directly, without middlemen. No third parties, no bridges — just cryptographic guarantees.
 
+![Basic Atomic Swap Diagram](https://miro.medium.com/v2/resize:fit:828/format:webp/1*p9_-Ww_pyntWKYinJdX3hg.png)
 *Basic Atomic Swap Diagram ([Source](https://docs.citrea.xyz/future-research/trustless-atomic-swaps))*
 
 Atomic swaps work using a technique called hashed timelock contracts (HTLCs). If two people want to trade BTC and cBTC, they each lock their funds in a contract with a special cryptographic condition. Either both sides fulfill the trade, or it doesn’t happen at all. There’s no way for one party to take the other’s funds and run. If the time runs out, both just get their money back.
@@ -52,6 +55,7 @@ Citrea is taking a different approach. Instead of treating atomic swaps as an ex
 
 The way Bitcoin rollups handle data is a constant trade-off between cost and security. On-chain storage is the gold standard — fully transparent, verifiable by anyone, and as secure as Bitcoin itself. But it’s expensive. Every byte stored on L1 competes for space, and fees can skyrocket. The alternative is off-chain storage, which cuts costs but introduces new risks — data is no longer inherently secured by Bitcoin, and users have to trust some external system to keep it available.
 
+![Volition Model Diagram](https://miro.medium.com/v2/resize:fit:828/format:webp/1*knLVKET91uXRPNODQhOu8w.png)
 *Volition Model Diagram ([Source](https://docs.citrea.xyz/future-research/volition-model))*
 
 Citrea’s Volition Model takes a different approach. Instead of forcing one method or the other, it lets users decide. If they want full security, they can store data on-chain, ensuring that every transaction is directly verifiable on Bitcoin L1. No trust assumptions, just raw cryptographic security. But if cost efficiency is the priority, they can store data off-chain while still proving validity through ZK proofs. The network doesn’t rely on a single storage method; both on-chain and off-chain data are combined into a single, unified Citrea state.
