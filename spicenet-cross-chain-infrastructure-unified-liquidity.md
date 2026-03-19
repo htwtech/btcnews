@@ -3,7 +3,7 @@ title: "Spicenet: Cross-Chain Infrastructure Protocol for Unified Liquidity Mana
 slug: "spicenet-cross-chain-infrastructure-unified-liquidity"
 date: "2026-02-20"
 description: "Spicenet is a cross-chain logic layer that sits above L1s/L2s, orchestrates state across them, and gives developers a single programmable surface."
-author: "Bitcoin Board"
+author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://pbs.twimg.com/media/HDtLecIWoAAU_l3.jpg"
 coverAlt: "Spicenet Protocol"
