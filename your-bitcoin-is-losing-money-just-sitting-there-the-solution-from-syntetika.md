@@ -3,7 +3,7 @@ title: "Your Bitcoin Is Losing Money Just Sitting There. The Solution from Synte
 slug: "your-bitcoin-is-losing-money-just-sitting-there-the-solution-from-syntetika"
 date: "2026-01-29"
 description: "Syntetika turns Bitcoin into a yield-bearing asset by packaging institutional strategies from the Nasdaq-listed Hilbert Group into transparent DeFi vaults."
-author: "BTCBoard Research"
+author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/syntetika_main.webp"
 coverAlt: "What is Syntetika"
