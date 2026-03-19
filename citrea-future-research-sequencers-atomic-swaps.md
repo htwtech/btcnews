@@ -3,7 +3,7 @@ title: "Citrea’s Future Research: Decentralized Sequencers, Atomic Swaps, and 
 slug: "citrea-future-research-sequencers-atomic-swaps"
 date: "2026-01-22"
 description: "Breaking down three specific directions from Citrea's research: Decentralized Sequencer Networks, Trustless Atomic Swaps, and the Volition Model."
-author: "Bitcoin Board"
+author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://pbs.twimg.com/media/HDsS6S5XMAAKEVx.jpg"
 coverAlt: "Citrea Future Research"
