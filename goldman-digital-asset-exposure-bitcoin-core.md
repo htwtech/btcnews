@@ -3,7 +3,7 @@ title: "Goldman's $2.36B Digital-Asset Exposure as Core Advances Kernel Refactor
 slug: "goldman-digital-asset-exposure-bitcoin-core-kernel"
 date: "2026-02-11"
 description: "Goldman Sachs disclosed $2.36 billion in digital-asset exposure as Bitcoin Core developers continued refactoring consensus logic."
-author: "Bitcoin Board"
+author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://pbs.twimg.com/media/HA5F5XwbsAE_xqh.jpg"
 coverAlt: "Goldman Digital-Asset Exposure"
