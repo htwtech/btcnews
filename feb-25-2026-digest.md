@@ -3,7 +3,7 @@ title: "Feb 25, 2026 | Digest: institutional accumulation, ETF flows, price acti
 slug: "feb-25-2026-digest-institutional-accumulation-etf-flows-price-adoption"
 date: "2026-02-25"
 description: "Institutional absorption vs issuance, ETF inflows returning, price consolidation and technical backdrop."
-author: "BTCBoard Research"
+author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Feb%2025,%202026%20_%20Digest.png"
 coverAlt: "Feb 25, 2026 Digest"
