@@ -3,7 +3,7 @@ title: "Bitcoin Treasury Companies in a Fragile Macro Regime: Why Adoption Alone
 slug: "bitcoin-treasury-companies-fragile-macro-regime"
 date: "2026-03-11"
 description: "194 public companies now hold Bitcoin, but 4 of the 5 largest holders control ~80% of all corporate BTC. We break down what the adoption wave actually looks like — and why more holders doesn't automatically mean more upside."
-author: "BTCBoard Research"
+author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Treasury%20Companies,%20Ranked%20b.png"
 coverAlt: "Bitcoin Treasury Companies Ranked"
