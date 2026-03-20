@@ -2,6 +2,7 @@
 title: "BTC Investments: January 2026"
 slug: "btc-investments-january-2026"
 date: "2026-03-19"
+description: "An overview of capital flows across Bitcoin, L2s, and BTCFi infrastructure based on January 2026 funding activity."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/BTC%20Investments_%20January%202026.png"
