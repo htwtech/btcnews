@@ -5,7 +5,7 @@ date: "2026-01-15"
 description: "Rather than separating computation from hosting, ICP integrates storage, frontend delivery, smart contracts, and cross-chain communication into a unified system."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Lightning%20%20network.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/ICP-Chain-Fusion.png"
 coverAlt: "Internet Computer Bitcoin Programmability"
 tags: ["bitcoin", "icp", "smart-contracts", "cross-chain", "defi"]
 ---
