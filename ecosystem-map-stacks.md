@@ -5,7 +5,7 @@ date: "2026-03-21"
 description: "A snapshot of how the Stacks ecosystem evolved into a more connected financial layer around BTC, sBTC, and USDCx."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Stacks%20ecosystem%20map.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/network/Stacks-ecosystem-map-s.png"
 coverAlt: "Stacks ecosystem map"
 tags: ["bitcoin", "btc", "stacks", "sbtc", "usdc", "ecosystem"]
 ---
