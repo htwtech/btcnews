@@ -5,7 +5,7 @@ date: "2026-04-01"
 description: "The moment BTC leaves L1, it stops being just something you hold. It starts doing work as collateral, yield-bearing assets, or gas in L2s."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/How-BTC-Leave.png"
+cover: "h131ttps://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/How-BTC-Leave.png"
 coverAlt: "How Bitcoin Leaves Mainnet"
 tags: ["bitcoin", "wbtc", "lbtc", "solvbtc", "defi", "bridging"]
 ---
