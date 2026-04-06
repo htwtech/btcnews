@@ -5,7 +5,7 @@ date: "2026-04-03"
 description: "A quick snapshot of current BTCFi routes, from higher-yield lending to wrappers, yield assets, and curated strategies."
 author: "Katrin Kitty"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Katrin.jpg"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/post.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/po2st.png"
 coverAlt: "5 ways to put your BTC to work across BTCFi right now"
 tags: ["bitcoin", "btc", "btcfi", "yield", "defi", "strategies"]
 ---
