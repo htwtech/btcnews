@@ -2,7 +2,7 @@
 title: "Weekly recap (31 Mar – 7 Apr)"
 slug: "weekly-recap-2026-04-07"
 date: "2026-04-07"
-description: "1️⃣ BOB Unveils Instant BTC Swaps"
+description: "Infrastructure and Protocol Updates"
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/recaps_posters/cover_2026-04-07_4c067f6f.png"
@@ -50,4 +50,3 @@ Utexo has launched a product offering private payments with privacy-first KYC, u
 
 
 Stay informed and strategic as these developments unfold. See you next week. 🫡
-
