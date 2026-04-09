@@ -5,7 +5,7 @@ date: "2026-04-09"
 description: "March did not bring a broad return of risk appetite. Capital stayed concentrated around settlement, infrastructure, distribution, and the developer layer."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/btc-investment.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bitbord-invest.png"
 coverAlt: "Bitcoin Capital Allocations March 2026"
 tags: ["bitcoin", "tether", "infrastructure", "funding", "developers"]
 ---
