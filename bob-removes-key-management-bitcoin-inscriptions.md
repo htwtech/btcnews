@@ -5,7 +5,7 @@ date: "2026-04-08"
 description: "BOB is removing one of the ugliest trust assumptions in the inscription flow and replacing it with a cryptographic commitment native to Bitcoin."
 author: "BitBoard Research"
 authorImage: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-0804-black-1775740392048.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-0804-black-1775742302633.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-writes-.png"
 coverAlt: "BOB Inscriptions Key Management"
 tags: ["bitcoin", "bob", "inscriptions", "evm", "infrastructure"]
 ---
