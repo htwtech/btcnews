@@ -5,7 +5,7 @@ date: "2026-04-10"
 description: "A quick snapshot of current BTCFi routes, from higher-yield liquidity pools to basic lending and curated multi-strategy vaults."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/yield-opportunity-cover-1775839916844-1775840221106.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/photo_2026-04-10_21-35-14.jpg"
 coverAlt: "BTCFi Yield Opportunities"
 tags: ["bitcoin", "btcfi", "yield", "defi", "liquidity"]
 ---
