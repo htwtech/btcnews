@@ -5,7 +5,7 @@ date: "2026-03-19"
 description: "A Bitcoin Policy Institute experiment reveals AI agents prefer Bitcoin for settlement and storage over stablecoins and fiat."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://pbs.twimg.com/media/HDx-_NmbQAASwy_.jpg"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-test.png"
 coverAlt: "AI Agents Choosing Bitcoin"
 tags: ["bitcoin", "ai", "agents", "stablecoins", "defi", "infrastructure"]
 ---
