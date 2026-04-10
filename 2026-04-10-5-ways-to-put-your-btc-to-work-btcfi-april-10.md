@@ -10,8 +10,6 @@ coverAlt: "BTCFi Yield Opportunities"
 tags: ["bitcoin", "btcfi", "yield", "defi", "liquidity"]
 ---
 
-# 5 Ways to Put Your BTC to Work Across BTCFi Right Now
-
 A quick snapshot of current BTCFi routes, from higher-yield liquidity pools to basic lending and curated multi-strategy vaults.
 
 ## CC/CBTC Liquidity Pool on Tradecraft
