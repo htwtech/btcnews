@@ -1,6 +1,6 @@
 ---
-title: "5 Ways to Put Your BTC to Work Across BTCFi Right Now"
-slug: "5-ways-to-put-your-btc-to-work-across-btcfi-right-now"
+title: "5 Ways to Put Your BTC to Work Across BTCFi Right Now (April 10)"
+slug: "5-ways-to-put-your-btc-to-work-btcfi-april-10"
 date: "2026-04-10"
 description: "A quick snapshot of current BTCFi routes, from higher-yield liquidity pools to basic lending and curated multi-strategy vaults."
 author: "BitBoard Research"
