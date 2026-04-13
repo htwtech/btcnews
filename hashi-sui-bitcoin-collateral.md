@@ -10,8 +10,6 @@ coverAlt: "Sui Network Hashi and Bitcoin graphic"
 tags: [bitcoin, sui, hashi, collateral, defi]
 ---
 
-# What Hashi on Sui Actually Means for Bitcoin
-
 The Sui Network Hashi launch is being heavily spun as a Bitcoin finance story, but the real angle is much narrower. Hashi actually matters if BTC on Sui morphs into legit collateral infrastructure instead of just another cross-chain wrapper collecting dust. 
 
 We've seen the generic "Bitcoin on another chain" pitch to death. Wrapped BTC fixed a specific headache—getting liquidity into EVM environments where the applications already lived. It was useful, sure, but it never fully patched the friction around custody, redemption, and operator risk. Those attack vectors become the main event the second you shift from simple market access to hardcore collateral quality. 
