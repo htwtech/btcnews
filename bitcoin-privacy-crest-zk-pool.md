@@ -5,7 +5,7 @@ date: "2026-03-18"
 description: "Bitcoin privacy solutions have existed for years, but none reached mass adoption. Here is how Crest is changing the premise with a ZK privacy pool."
 author: "Katrin"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/private-bitcoin-new.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/private-bitcoin-new-1776116779829.png"
 coverAlt: "Bitcoin Privacy with Crest"
 tags: ["bitcoin", "privacy", "crest", "zk", "citrea"]
 ---
