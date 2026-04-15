@@ -5,7 +5,7 @@ date: "2026-03-05"
 description: "Idle capital stays idle even when the asset itself is recovering. How BOB Gateway is trying to change the math for Bitcoin yield."
 author: "HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
-cover: "https://pbs.twimg.com/media/HCqIfzwX0AAinEk?format=jpg&name=small"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/content/Cold-Storage-Lost-Yield.png"
 coverAlt: "Bitcoin Yield"
 tags: ["bitcoin", "btcfi", "bob", "yield", "defi"]
 ---
