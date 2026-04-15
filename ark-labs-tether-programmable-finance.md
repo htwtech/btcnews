@@ -5,7 +5,7 @@ date: "2026-03-17"
 description: "Ark Labs closed a $5.2M seed round with participation from Tether, signaling a shift toward programmable, Bitcoin-native infrastructure."
 author: "HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
-cover: "https://pbs.twimg.com/media/HDoDSUhXAAQmRTt.jpg"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/content/Tether-Bet-on-Bitcoin.png"
 coverAlt: "Ark Labs and Tether"
 tags: ["bitcoin", "ark-labs", "tether", "infrastructure", "defi"]
 ---
