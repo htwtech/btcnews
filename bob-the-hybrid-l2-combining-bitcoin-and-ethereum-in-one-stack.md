@@ -5,7 +5,7 @@ date: "2026-03-03"
 description: "BOB is a Hybrid Layer-2 that merges Bitcoin security with Ethereum flexibility to enable scalable Bitcoin DeFi."
 author: "BTCBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/BOBL2.jpg"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/content/Bob-The-Hybrid-L2-for-Bitcoin.png"
 
 tags: ["bitcoin", "btc", "l2"]
 ---
