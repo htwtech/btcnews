@@ -5,7 +5,7 @@ date: "2026-01-27"
 description: "Lightning node profitability in 2026: routing fees, liquidity leasing, consolidation and why scale now matters more than experimentation."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Lightning%20Node%20Profitability%202026-cover.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/content/Lightning-Node-Profitability-2026.png"
 coverAlt: "Lightning Node Profitability 2026"
 tags: ["bitcoin", "lightning", "infrastructure", "yield", "btc"]
 ---
