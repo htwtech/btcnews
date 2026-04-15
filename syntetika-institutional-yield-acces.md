@@ -5,7 +5,7 @@ date: "2026-01-29"
 description: "How institutions extract yield from Bitcoin volatility using delta-neutral strategies and how Syntetika opens access."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/What%20is%20Syntetika.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/content/What-is-Syntetika_.png"
 coverAlt: "What is Syntetika"
 tags: ["bitcoin", "btc", "yield", "syntetika", "real-yield"]
 ---
