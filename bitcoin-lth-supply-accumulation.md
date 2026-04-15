@@ -5,7 +5,7 @@ date: 2026-04-14
 description: "The 30-day LTH supply change just flipped heavily positive, signaling that the late-2025 distribution phase is officially running out of steam."
 author: BitBoard Research
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bitboard-1404.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/content/long-term.png"
 coverAlt: "Bitcoin Long-Term Holder Supply Chart"
 tags: [bitcoin, on-chain, lth, supply, accumulation]
 ---
