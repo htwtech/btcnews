@@ -5,7 +5,7 @@ date: 2026-04-16
 description: "Native Bitcoin vaults have a fatal liquidation flaw. Here is how quantized splits and Onchain Market Makers are trying to patch the settlement delay."
 author: BitBoard Research
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-bitboard.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-bitboard-1776348838337.png"
 coverAlt: "Native BTC Vaults"
 tags: [bitcoin, defi, liquidations, utxo, wbtc]
 ---
