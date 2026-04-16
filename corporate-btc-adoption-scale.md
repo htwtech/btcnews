@@ -5,7 +5,7 @@ date: 2026-04-16
 description: "The corporate Bitcoin footprint is growing geographically and across more firms, but balance sheet firepower remains heavily clustered at the top."
 author: BitBoard Research
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bitboard-1504.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/Screenshot_1.png"
 coverAlt: "Corporate BTC Adoption Footprint"
 tags: [bitcoin, treasury, corporate, on-chain, microstrategy]
 ---
@@ -16,7 +16,7 @@ What stands out in the latest corporate Bitcoin data is not just the growth itse
 
 The footprint is widening across both companies and geographies. More treasury programs are appearing outside the obvious names, and more corporate BTC is now being held outside the U.S. than earlier in the cycle.
 
-![Corporate BTC Footprint](https://x.com/btc_board/article/2044523235471937888/media/2044502881882005504)
+![Corporate BTC Footprint](https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/Screenshot_1.png)
 
 ## A Top-Heavy Treasury Structure
 
@@ -26,7 +26,7 @@ The initial data shows a structure that is dominated by the heavyweights. A tiny
 
 But the second chart matters because it entirely removes the easy objection. Once Strategy is stripped out, the growth story does not disappear. The other cohort has expanded meaningfully, which tells us this is no longer just a one-company story.
 
-![Excluding MSTR Cohort](https://x.com/btc_board/article/2044523235471937888/media/2044503347479359488)
+![Excluding MSTR Cohort](https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/Screenshot_2.png)
 
 ## Broader Participation ≠ Broader Buying Power
 
@@ -34,7 +34,7 @@ Even excluding the biggest whale, the long tail has grown meaningfully. The data
 
 That does not mean scale has decentralized.
 
-![Geographic Distribution](https://x.com/btc_board/article/2044523235471937888/media/2044505361407713280)
+![Geographic Distribution](https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/Screenshot_3.png)
 
 It hasn’t. The long tail is getting larger, and the surface area is widening. But the actual ability to build a meaningful position still appears concentrated in a relatively small group of issuers equipped with the best access to capital and the strongest market support. 
 
