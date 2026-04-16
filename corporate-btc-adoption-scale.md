@@ -5,7 +5,7 @@ date: 2026-04-16
 description: "The corporate Bitcoin footprint is growing geographically and across more firms, but balance sheet firepower remains heavily clustered at the top."
 author: BitBoard Research
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/Screenshot_1.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bitboard-1504.png"
 coverAlt: "Corporate BTC Adoption Footprint"
 tags: [bitcoin, treasury, corporate, on-chain, microstrategy]
 ---
