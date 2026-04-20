@@ -5,7 +5,7 @@ date: "2026-04-01"
 description: "Roughly $800B in BTC swaps takes place each month, yet less than 1% happens on-chain. BOB is looking to fix this structural bottleneck."
 author: "BitBoard"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-square-test.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-instant.png"
 coverAlt: "BOB Bank of Bitcoin Stage 1"
 tags: ["bitcoin", "swaps", "bob", "infrastructure", "liquidity"]
 ---
