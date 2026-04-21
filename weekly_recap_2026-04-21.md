@@ -2,7 +2,7 @@
 title: "Weekly recap (14 Apr – 21 Apr)"
 slug: "weekly-recap-2026-04-21"
 date: "2026-04-21"
-description: "1️⃣ Stacks Halving and DeFi Stack Launch"
+description: "Infrastructure and Protocol Updates in the Bitcoin Ecosystem (Stacks, Zest Protocol, GraniteBTC, HermeticaFi, Bitflow, Starknet, AmbossTech, Lightning Network, Bitfinity Network, CoreDAO, Goldman Sachs, Solv Protocol, UTEXO, Plasma, Stables, Tether, Mezo Network, River, Map Protocol, Liquid Network, Blockstream, Meet the Drapers, BitGo)."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
 cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/recaps_posters/cover_2026-04-21_cee75214.png"
