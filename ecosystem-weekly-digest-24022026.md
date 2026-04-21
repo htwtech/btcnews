@@ -5,7 +5,7 @@ date: "2026-02-24"
 description: "The market is living in two parallel realities right now. Whales are getting secure institutional vaults, while retail is farming airdrops just by chatting with AI."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/news-1602.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/news-1602-1776810808032.png"
 coverAlt: "BTC Ecosystem Weekly Digest"
 tags: ["bitcoin", "digest", "ai", "airdrop", "yield"]
 ---
