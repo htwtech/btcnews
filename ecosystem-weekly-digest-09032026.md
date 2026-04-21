@@ -5,7 +5,7 @@ date: "2026-03-09"
 description: "The market is completely unreadable right now. Let's look at the BTC ecosystem, including updates from Citrea, OP_NET, Stacks, and BOB."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://pbs.twimg.com/media/HC-ulYIWkAAQjTa.jpg"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/news-02.png"
 coverAlt: "BTC Ecosystem Weekly Digest"
 tags: ["bitcoin", "digest", "airdrop", "btcfi", "defi"]
 ---
