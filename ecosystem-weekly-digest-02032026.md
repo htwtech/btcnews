@@ -5,7 +5,7 @@ date: "2026-03-03"
 description: "Retail liquidity is busy apeing into vibe-coded narratives, while builders are quietly locking down infrastructure and institutional capital."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://pbs.twimg.com/media/HCb22QZaYAAHpIp?format=jpg&name=small"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/news-1202.png"
 coverAlt: "BTC Ecosystem Weekly Digest"
 tags: ["bitcoin", "digest", "citrea", "rootstock", "defi"]
 ---
