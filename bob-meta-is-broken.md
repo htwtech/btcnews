@@ -5,7 +5,7 @@ date: "2026-02-19"
 description: "Why the current BTCFi meta is broken and how BOB's Native Vaults aim to solve the dead weight of idle Bitcoin."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://pbs.twimg.com/media/HBiRywxXcAAZXMh.jpg"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-new-111.png"
 coverAlt: "Why the Current BTCFi Meta is Broken"
 tags: ["bitcoin", "btcfi", "bob", "defi", "bitvm"]
 ---
