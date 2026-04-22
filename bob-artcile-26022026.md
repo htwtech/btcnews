@@ -5,7 +5,7 @@ date: "2026-02-26"
 description: "Bitcoin has $1.3T in market cap and 0.3% of it is actually deployed. We look at this and see a structural problem, not a bear market issue."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://pbs.twimg.com/media/HCGqaBBWYAAJEIa?format=jpg&name=900x900"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-new-2304.png"
 coverAlt: "The $1.3T Problem Bitcoin Hasn't Solved Yet"
 tags: ["bitcoin", "btcfi", "bob", "infrastructure", "institutional"]
 ---
