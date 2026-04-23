@@ -5,7 +5,7 @@ date: "2026-04-21"
 description: "Retail Investors Lead in STRC Holdings"
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/11_poster_news/cover_2026-04-21_548437fc.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/mstr.png"
 coverAlt: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/recaps_posters/backgrounds/twitter_weekly_recap_1.png"
 tags: ["metrics", "performance", "highlights", "bitcoin", "infrastructure"]
 ---
