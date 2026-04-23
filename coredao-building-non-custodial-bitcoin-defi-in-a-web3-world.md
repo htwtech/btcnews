@@ -5,7 +5,7 @@ date: "2025-04-18"
 description: "A concise look at CoreDAO’s approach to non-custodial Bitcoin DeFi, combining BTC security with EVM usability."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/core_main.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/core-new.png"
 coverAlt: "CoreDAO non-custodial Bitcoin DeFi concept"
 tags: ["bitcoin", "btc", "l2"]
 ---
