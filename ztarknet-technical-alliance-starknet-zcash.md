@@ -5,7 +5,7 @@ date: "2025-12-15"
 description: "A deep technical breakdown of Ztarknet, exploring the Starknet and Zcash alliance, zero-knowledge proofs, L2 architecture, and programmable privacy."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "(https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/ztarknet_main.png)"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/ztarknet-new.png"
 coverAlt: "Ztarknet cover"
 tags: ["bitcoin", "btc", "l2"]
 ---
