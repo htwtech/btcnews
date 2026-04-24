@@ -5,7 +5,7 @@ date: "2025-12-10"
 description: "An in-depth look at how Stroom Network turns bridged Bitcoin into a yield-bearing asset by deploying BTC liquidity across Lightning and emerging Bitcoin infrastructure."
 author: "HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/stroom_main.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/stroom-network.png"
 coverAlt: "Stroom Network Bitcoin yield infrastructure"
 tags: ["bitcoin", "btc", "defi", "lightning"]
 ---
