@@ -5,7 +5,7 @@ date: "2026-02-05"
 description: "Botanix dropped positioning around Bitcoin Finance, and it's less about features than drawing a line around what doing finance with Bitcoin means."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://pbs.twimg.com/media/HAaGSZracAQM6Bj.jpg"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/not-defi.png"
 coverAlt: "Botanix Bitcoin Finance"
 tags: ["bitcoin", "botanix", "btcfi", "infrastructure", "security"]
 ---
