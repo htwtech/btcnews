@@ -5,7 +5,7 @@ date: "2025-12-19"
 description: "Fiamma brings a trust-minimized, non-custodial Bitcoin bridge powered by BitVM2 to mainnet, unlocking BTC-backed liquidity across multiple chains."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Fiamma_%20Trust%20Minimized%20Bitcoin%20Bridge%20Goes%20Mainnet.webp"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/fiamma-new.png"
 coverAlt: "Fiamma trust-minimized Bitcoin bridge goes mainnet"
 tags: ["bitcoin", "btc", "bridge", "bitvm2", "defi"]
 ---
