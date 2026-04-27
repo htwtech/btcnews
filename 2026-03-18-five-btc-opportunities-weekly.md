@@ -5,7 +5,7 @@ date: "2026-02-07"
 description: "Different setups, different risk profiles. Five ways to put your BTC to work without fully leaving the Bitcoin ecosystem."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/5-btc-0604-1777317866164.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/5-btc-new.png"
 coverAlt: "BTC Opportunities Weekly"
 tags: ["bitcoin", "btcfi", "yield", "staking", "lightning"]
 ---
