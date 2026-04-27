@@ -5,7 +5,7 @@ date: "2026-03-20"
 description: "Saturn is building a bridge that takes DeFi liquidity and funnels it straight into MicroStrategy’s credit machine via the USDat and sUSDat stablecoins."
 author: "Katrin Kitty"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/saturn-cover-1-.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/saturn-defi.png"
 coverAlt: "Saturn Credit Protocol"
 tags: ["bitcoin", "defi", "stablecoins", "microstrategy", "saturn"]
 ---
