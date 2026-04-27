@@ -5,7 +5,7 @@ date: "2026-02-14"
 description: "Utexo is building a stack where USDT moves on Bitcoin, but nothing is visible from the outside. Here is how they use RGB and Lightning to achieve it."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/private-usdt.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/utexo-new.png"
 coverAlt: "Private USDT on Bitcoin by Utexo"
 tags: ["bitcoin", "usdt", "utexo", "privacy", "rgb", "lightning"]
 ---
