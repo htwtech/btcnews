@@ -5,7 +5,7 @@ date: "2026-02-04"
 description: "UBS CEO Sergio Ermotti confirmed the bank is building digital asset infrastructure and exploring targeted crypto offerings for wealth management clients."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://pbs.twimg.com/media/HAU29EBaEAASM84.jpg"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/ubs-integrates.png"
 coverAlt: "UBS Digital Assets"
 tags: ["bitcoin", "tradfi", "ubs", "adoption", "banking"]
 ---
