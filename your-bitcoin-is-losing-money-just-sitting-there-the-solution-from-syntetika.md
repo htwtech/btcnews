@@ -5,7 +5,7 @@ date: "2026-01-29"
 description: "Syntetika turns Bitcoin into a yield-bearing asset by packaging institutional strategies from the Nasdaq-listed Hilbert Group into transparent DeFi vaults."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/syntetika_main.webp"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/syntetila-news.png"
 coverAlt: "What is Syntetika"
 tags: ["bitcoin", "btc", "l2"]
 ---
