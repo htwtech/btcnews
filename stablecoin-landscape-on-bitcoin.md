@@ -5,7 +5,7 @@ date: "2025-12-17"
 description: "An overview of how stablecoins have evolved on Bitcoin through different layers, from Omni to Plasma."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/Stablecoin%20landscape%20on%20Bitcoin.webp"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/stablecoin-news.png"
 coverAlt: "Stablecoin Landscape on Bitcoin"
 tags: ["bitcoin", "stablecoins", "btc"]
 ---
