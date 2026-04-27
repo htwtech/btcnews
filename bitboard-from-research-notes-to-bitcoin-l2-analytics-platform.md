@@ -5,7 +5,7 @@ date: "2025-12-18"
 description: "How HighTower turned internal Bitcoin L2 research into BitBoard, a public analytics platform tracking dozens of Bitcoin Layer-2 networks."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/BitBoard%20From%20Research%20Notes%20to%20Bitcoin%20L2%20Analytics%20Platform.webp"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/FROM-RES.png"
 coverAlt: "BitBoard From Research Notes to Bitcoin L2 Analytics Platform"
 tags: ["bitcoin", "l2", "analytics", "research", "infrastructure", "bitboard"]
 ---
