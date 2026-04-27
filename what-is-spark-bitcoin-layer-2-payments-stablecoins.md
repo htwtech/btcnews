@@ -5,7 +5,7 @@ date: "2025-12-20"
 description: "A deep dive into Spark, Lightspark’s Bitcoin Layer 2 for payments and stablecoins."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/What%20is%20Spark%20A%20Deep%20Dive%20into%20Bitcoin%20s%20Layer%202%20for%20Payments%20and%20Stablecoins.webp"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/spark-bitboard.png"
 coverAlt: "What is Spark: A Deep Dive into Bitcoin’s Layer 2 for Payments and Stablecoins"
 tags: ["bitcoin", "btc", "spark", "payments", "stablecoins", "layer-2"]
 ---
