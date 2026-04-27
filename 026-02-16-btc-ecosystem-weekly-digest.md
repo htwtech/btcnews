@@ -5,7 +5,7 @@ date: "2026-02-09"
 description: "While retail is busy farming badges and chatting with AI agents, the infrastructure layer is pivoting to real business models."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/btc-old.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/news-0902.png"
 coverAlt: "BTC Ecosystem Weekly Digest"
 tags: ["bitcoin", "digest", "ecosystem", "btcfi", "institutional"]
 ---
