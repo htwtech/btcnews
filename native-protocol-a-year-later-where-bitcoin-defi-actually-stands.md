@@ -5,7 +5,7 @@ date: "2025-08-27"
 description: "A year after its initial pitch, Native Protocol is closer to mainnet with nBTC, BYield, and the BLISS stack. This review looks at what actually shipped, how the architecture works, and whether the product can find real demand in Bitcoin DeFi."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/native_main.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/native-news.png"
 coverAlt: "Native Protocol BTCFi check cover"
 tags: ["bitcoin", "btc", "l2"]
 ---
