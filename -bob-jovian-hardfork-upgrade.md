@@ -5,7 +5,7 @@ date: "2026-03-12"
 description: "BOB Mainnet upgraded with the Jovian Hardfork, bringing a more predictable fee market and a tighter proving stack via OP Stack Upgrade 17."
 author: "HighTower"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
-cover: "https://pbs.twimg.com/media/HDOpbgqWMAAWncO.jpg"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-mainnet.png"
 coverAlt: "BOB Jovian Hardfork"
 tags: ["bitcoin", "bob", "l2", "infrastructure", "op-stack"]
 ---
