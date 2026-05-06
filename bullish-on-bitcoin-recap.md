@@ -1,7 +1,7 @@
 ---
 title: "Bullish on Bitcoin: recap"
 slug: "bullish-on-bitcoin-recap"
-date: "2026-03-20"
+date: "2026-05-06"
 description: "A recap of Bullish on Bitcoin covering market structure, ETF flows, quantum risk, and BTCFi infrastructure gaps."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
