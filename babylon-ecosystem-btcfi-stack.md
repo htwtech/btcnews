@@ -4,8 +4,8 @@ slug: "babylon-bitcoin-staking-btcfi-stack"
 date: "2026-05-08"
 description: "Babylon’s visible ecosystem map shows more than a staking narrative. DeFi, bridges, wallets, custody, infrastructure, and tooling are starting to form a broader coordination layer around Bitcoin liquidity."
 author: "BitBoard Research"
-authorImage: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/Group-2131329932.png"
-cover: ""
+authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/Group-2131329932.png" 
 coverAlt: "BitBoard Babylon ecosystem map showing wallets, DeFi, bridges, infrastructure, supported chains, tooling, payments, CEX, DAO, and VC layers"
 tags: ["bitcoin", "btcfi", "babylon", "staking", "infrastructure"]
 ---
