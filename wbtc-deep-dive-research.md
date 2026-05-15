@@ -12,8 +12,6 @@ tags: ["bitcoin", "wbtc", "bitboard"]
 
 # Wrapped Bitcoin (WBTC): A Comprehensive Research Article
 
-**Author:** Manus AI  
-**Date:** May 15, 2026
 
 ## Executive Summary
 
