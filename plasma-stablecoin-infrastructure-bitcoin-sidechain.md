@@ -5,7 +5,7 @@ date: "2025-06-10"
 description: "Plasma is a purpose-built Layer 1 for stablecoin payments, starting with zero-fee USD₮ transfers. Its bet is that stablecoins need dedicated infrastructure, not another general-purpose chain with payments added on top."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
-cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/Group-2131329951-2-.png"
+cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/Group-213132995.png"
 coverAlt: "Plasma stablecoin infrastructure concept with Bitcoin security, USD₮ transfers, EVM compatibility, and global payment rails"
 tags: ["bitcoin", "stablecoins", "plasma", "usdt", "payments"]
 ---
