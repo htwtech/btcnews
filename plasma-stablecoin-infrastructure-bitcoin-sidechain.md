@@ -1,4 +1,3 @@
-<!-- source: :contentReference[oaicite:0]{index=0} -->
 ---
 title: "Plasma Is Building Stablecoin Rails Around Bitcoin Security"
 slug: "plasma-stablecoin-infrastructure-bitcoin-sidechain"
