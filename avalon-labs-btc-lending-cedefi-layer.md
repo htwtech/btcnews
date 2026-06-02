@@ -1,4 +1,3 @@
-<!-- suggested filename: avalon-labs-btc-lending-cedefi-layer.md -->
 ---
 title: "Avalon Labs Is Building the BTC Lending Layer"
 slug: "avalon-labs-btc-lending-cedefi-layer"
