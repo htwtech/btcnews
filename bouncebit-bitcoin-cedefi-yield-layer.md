@@ -1,7 +1,7 @@
 ---
 title: "BounceBit Is Building a CeDeFi Yield Layer for Bitcoin"
 slug: "bouncebit-bitcoin-cedefi-yield-layer"
-date: "2026-05-29"
+date: "2024-10-29"
 description: "BounceBit is a Bitcoin-focused CeDeFi platform built around BTC staking, yield products, and EVM-compatible infrastructure. Its bet is that Bitcoin holders want more productive BTC exposure, but with clearer reserve transparency and easier access to yield."
 author: "BitBoard Research"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/btcboard%20logo.png"
