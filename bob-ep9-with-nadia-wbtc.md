@@ -2,7 +2,7 @@
 title: "# Why the Market Chose Custodial: The Wrapped BTC and BOB Story — Based on Nadia Song's Interview on Bullish on Bitcoin"
 slug: "Why-the-Market-Chose-Custodial-The-Wrapped-BTC-and-BOB-Story-Based-on-Nadia-Song-Interview-on-Bullish-on-Bitcoin"
 date: "2026-08-13"
-description: "Based on the [Bullish on Bitcoin Show](https://youtu.be/phzOJMIqbQQ?si=1AyRmz1nc7bzBxnO) episode with Nadia Song (WBTC / BiT Global)"
+description: ""
 author: "Bitcoin Board"
 authorImage: "https://bvkmqlnhnryztqknjjah.supabase.co/storage/v1/object/public/content/news/HTW.png"
 cover: "https://fiphsgznopoesjaxwkwz.supabase.co/storage/v1/object/public/networks/bob-episode-9.jpg"
